@@ -1,4 +1,4 @@
-# Gadgers B2B Platform in PHP
+# B2B Platform in PHP
 
 Gadgets is B2B electronic business platform 
 
